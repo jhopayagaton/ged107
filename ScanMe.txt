@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Art Appreciation</title>
+  <style>
+    .container {
+      margin: 0 auto;
+      max-width: 500px; /* Adjust this value for your desired website width */
+      padding: 20px;
+    }
+
+    .header, .image-container, .paragraph {
+      text-align: center;
+    }
+
+    .image-container img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>Hello, It's Me!</h1>
+    </header>
+    <div class="image-container">
+      <img src="final.png" alt="Placeholder image">
+    </div>
+    <p class="paragraph">
+      I am Josephine B. Agaton, also known as "JHOPAY". I live in San Antonio, Zambales and yes I do travel everytime I have classes so bare with me If I am half of an hour late. By the way, I am on my 4th year of taking BS in Computer Science under College of Computer Studies.
+    </p>
+      
+    <p class="paragraph">
+      When it comes in fine arts, I enjoy doing crafts and design such as paper folding. Other than that, dancing is my thing when it comes in performing arts.
+    </p>
+  </div>
+</body>
+</html>
